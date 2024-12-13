@@ -113,3 +113,9 @@ cp .htaccess.example .htaccess
 ### Customize the configuration
 
 See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
+
+### Support me
+
+If you find my work helpful, or you want to support the development, star the repo or buy me a coffee:
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/dipaksarkar)
